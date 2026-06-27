@@ -1,0 +1,6 @@
+flask
+gunicorn
+numpy
+pillow
+face_recognition
+paho-mqtt
